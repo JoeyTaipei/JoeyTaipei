@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Joey.
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate ...
+- 👀 I’m interested in data analytics and statistics
+- 🌱 I’m currently learning python and SQL
 - 📫 How to reach me: e64992019@gs.ncku.edu.tw
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to play basketball and go hiking.
+- ⚡ Fun fact: I like to ride bikes and go hiking.
 
 <!---
 JoeyTaipei/JoeyTaipei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
